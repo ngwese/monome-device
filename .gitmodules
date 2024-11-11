@@ -1,0 +1,3 @@
+[submodule "libmonome-sys/vendor/libmonome"]
+	path = libmonome-sys/vendor/libmonome
+	url = https://github.com/monome/libmonome.git

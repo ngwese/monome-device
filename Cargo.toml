@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "libmonome-sys",
+    "monome-device",
+]
+resolver = "2"
